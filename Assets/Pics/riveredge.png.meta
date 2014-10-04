@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: 155617122a4ef7943a79f1565b9c42d1
+guid: 589a5eb754fe11f41ae1da5d7f95aaac
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: riveredge
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
