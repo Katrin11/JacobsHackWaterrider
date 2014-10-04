@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: 3a75cc47631075940843b889f80d8de2
+guid: 86158435468ba59449f0926077d64e0c
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: boat
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0

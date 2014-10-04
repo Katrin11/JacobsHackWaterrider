@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: 1c1207506a601ff4f93b38c44ebe648c
+guid: bc693fbcdd6f4a946b4bf67b87d8dafc
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: river
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
