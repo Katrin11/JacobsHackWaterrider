@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{A70024C8-A23E-86DB-BD91-EBBBBE0F2432}") = "Waterrider", "Assembly-CSharp-vs.csproj", "{0C16B7AF-4D68-E16A-D558-E5AA12DE874C}"
+Project("{EC4A482C-F745-B8B5-83C0-4E8135BF1BD4}") = "JacobsHackWaterrider", "Assembly-CSharp-vs.csproj", "{0DCACB20-91CE-D0AF-EDE6-BF1A678FA89A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0C16B7AF-4D68-E16A-D558-E5AA12DE874C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C16B7AF-4D68-E16A-D558-E5AA12DE874C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C16B7AF-4D68-E16A-D558-E5AA12DE874C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C16B7AF-4D68-E16A-D558-E5AA12DE874C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCACB20-91CE-D0AF-EDE6-BF1A678FA89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCACB20-91CE-D0AF-EDE6-BF1A678FA89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCACB20-91CE-D0AF-EDE6-BF1A678FA89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCACB20-91CE-D0AF-EDE6-BF1A678FA89A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-						GlobalSection(MonoDevelopProperties) = preSolution
+		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
