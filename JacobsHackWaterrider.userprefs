@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Music.cs">
     <Files>
-      <File FileName="Assets\StartButton.cs" Line="23" Column="1" />
-      <File FileName="Assets\ExitButton.cs" Line="17" Column="51" />
       <File FileName="Assets\Music.cs" Line="1" Column="1" />
-      <File FileName="Assets\MusicButton.cs" Line="24" Column="1" />
+      <File FileName="Assets\StartButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\ExitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Music.cs" Line="15" Column="3" />
+      <File FileName="Assets\MusicButton.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -49,6 +49,7 @@
      <Compile Include="Assets\ExitButton.cs" />
      <Compile Include="Assets\Music.cs" />
      <Compile Include="Assets\MusicButton.cs" />
+     <Compile Include="Assets\PlayAgainButton.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\StartButton.cs" />
      <Compile Include="Assets\gui.cs" />
